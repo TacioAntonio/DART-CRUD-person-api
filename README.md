@@ -17,7 +17,6 @@
 - PUT - /person/update/:id
 - DELETE - /person/delete/:id
 
-
 ## Installation
 ```sh
 $ git clone https://github.com/TacioAntonio/DART-CRUD-person-api
