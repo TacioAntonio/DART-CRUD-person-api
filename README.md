@@ -6,7 +6,6 @@
 <br />
 
 > A simple CRUD made with DART and shelf
-<br />
 
 > Application that runs the API [React Native](https://)
 
