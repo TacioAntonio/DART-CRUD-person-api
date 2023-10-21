@@ -12,10 +12,10 @@
 ## Endpoints
 ### Persons
 - GET - /persons
-- GET - /person/<id>
+- GET - /person/:id
 - POST - /person/create
-- PUT - /person/update/<id>
-- DELETE - /person/delete/<id>
+- PUT - /person/update/:id
+- DELETE - /person/delete/:id
 
 
 ## Installation
